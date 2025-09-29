@@ -34,4 +34,4 @@ Solutions for Assessment I (Pipeline Setup & Transformations) and Assessment II 
 - Hevo connection tunneling, Snowflake schema permissions.
 
 ## Loom Link
-Add Loom URL here.
+Add Loom URL here: https://www.loom.com/share/70ea0e8a21b24976942e12df990e2ace?sid=1b716557-9e05-4df7-aa49-9dd98e224939
