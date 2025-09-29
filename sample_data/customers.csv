@@ -1,0 +1,4 @@
+id,first_name,last_name,email,address
+1,Alice,Smith,alice.smith@example.com,"{""city"":""New York"",""zip"":""10001""}"
+2,Bob,Jones,bob.jones@example.com,"{""city"":""San Francisco"",""zip"":""94105""}"
+3,Charlie,Brown,charlie.brown@example.com,"{""city"":""Chicago"",""zip"":""60601""}"

@@ -1,0 +1,4 @@
+order_id,customer_id,product_id,amount,currency,created_at
+1001,1,11.0,120.5,USD,2021-06-01 11:00:00
+1002,2,12.0,,INR,2021-06-02 12:00:00
+1003,3,,-50.0,EUR,2021-06-03 13:00:00

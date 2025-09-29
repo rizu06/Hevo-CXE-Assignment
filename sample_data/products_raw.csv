@@ -1,0 +1,4 @@
+product_id,product_name,category,active_flag
+11,LAPTOP,ELECTRONICS,Y
+12,mouse,electronics,N
+13,Desk,Furniture,Y
